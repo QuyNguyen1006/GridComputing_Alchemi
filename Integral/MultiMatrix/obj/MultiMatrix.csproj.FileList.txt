@@ -1,0 +1,6 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\MultiMatrix.exe
+bin\Debug\MultiMatrix.pdb
+bin\Debug\Alchemi.Core.dll
+obj\Debug\MultiMatrix.exe
+obj\Debug\MultiMatrix.pdb

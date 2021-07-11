@@ -1,0 +1,101 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+using Alchemi.Core;
+using Alchemi.Core.Owner;
+
+namespace MultiMatrix
+{
+    class MultiMatrix : GApplication
+    {
+        public static GApplication App = new GApplication();
+        private static DateTime startTime;
+        public static int pointTail = 0;
+        public static double result = 0;
+        [STAThread]
+        static void Main(string[] args)
+        {
+            Console.Write("Host[localhost]: ");
+            string host = Console.ReadLine();
+            if (host.Length < 1)
+            {
+                host = "localhost";
+            }
+            Console.Write("Nhap n : ");
+            int n = int.Parse(Console.ReadLine());
+            int count = n * 1000;
+            pointTail = count;
+            Console.WriteLine("Chia thành {0} đoạn nhỏ để tính tích phân", count);
+            Console.Write("Khoang chia cho moi luong : ");
+            int size = int.Parse(Console.ReadLine());
+            for (int i = 0; i < count / size + 1; i++)
+            {
+                if ((i + 1) * size <= count && i * size < count)
+                {
+                    App.Threads.Add(new TichPhan(i * size + 1, i * size + size));
+                }
+                else if (i * size < count)
+                {
+                    App.Threads.Add(new TichPhan(i * size + 1, count));
+                }
+            }
+            App.Connection = new GConnection(host, 9000, "user", "user");
+            App.Manifest.Add(new ModuleDependency(typeof(TichPhan).Module));
+            App.ThreadFinish += App_ThreadFinish1;
+            App.ApplicationName = "Tích Phân";
+            App.ApplicationFinish += new GApplicationFinish(App_ApplicationFinish);
+            startTime = DateTime.Now;
+            Console.WriteLine("Thread Started");
+            App.Start();
+            Console.ReadLine();
+
+        }
+
+        private static void App_ThreadFinish1(GThread thread)
+        {
+            TichPhan s = thread as TichPhan;
+            Console.Write("Luong {0} ({1}:{2}): Kết thúc", thread.Id, s.start, s.end);
+            for (int i = 0; i < s.L.Count; i++)
+            {
+                result += s.L[i];
+                Console.Write(s.L[i] + "\n");
+            }
+            Console.WriteLine("\n");
+        }
+
+        private static void App_ApplicationFinish()
+        {
+            Console.WriteLine("Result : {0}", result / 2 * 0.001);
+            Console.WriteLine("Calculation finished after {0} seconds", DateTime.Now - startTime);
+        }
+    }
+    [Serializable]
+    class TichPhan : GThread
+    {
+        public int start, end;
+        public List<double> L = new List<double>();
+        public TichPhan(int start, int end)
+        {
+            this.start = start;
+            this.end = end;
+        }
+        public static double f(double x)
+        {
+            return x;
+        }
+        public override void Start()
+        {
+            for (int i = start; i <= end; i++)
+            {
+                if (i == 0 || i == MultiMatrix.pointTail)
+                {
+                    L.Add(f((double)i / 1000));
+                }
+                else
+                {
+                    L.Add(2 * f((double)i / 1000));
+                }
+            }
+        }
+    }
+}

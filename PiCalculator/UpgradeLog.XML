@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="PiCalculator">
+</Property><Property Name="Solution File" Value="E:\books information\studying\ki9\модели и методы\Alchemi\Alchemi\Alchemi-1.0.6-sdk-net-2.0\examples\PiCalculator\PiCalculator.sln">
+</Property><Property Name="User Options File" Value="E:\books information\studying\ki9\модели и методы\Alchemi\Alchemi\Alchemi-1.0.6-sdk-net-2.0\examples\PiCalculator\PiCalculator.suo">
+</Property><Property Name="Date" Value="Wednesday, October 01, 2008">
+</Property><Property Name="Time" Value="14:13 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="PiCalculator.sln" Description="File successfully backed up as E:\books information\studying\ki9\модели и методы\Alchemi\Alchemi\Alchemi-1.0.6-sdk-net-2.0\examples\PiCalculator\Backup\PiCalculator.sln">
+</Event><Event ErrorLevel="0" Project="" Source="PiCalculator.suo" Description="File successfully backed up as E:\books information\studying\ki9\модели и методы\Alchemi\Alchemi\Alchemi-1.0.6-sdk-net-2.0\examples\PiCalculator\Backup\PiCalculator.suo">
+</Event><Event ErrorLevel="0" Project="PiCalculator" Source="PiCalculator\PiCalculator.csproj" Description="Project file successfully backed up as E:\books information\studying\ki9\модели и методы\Alchemi\Alchemi\Alchemi-1.0.6-sdk-net-2.0\examples\PiCalculator\Backup\PiCalculator\PiCalculator.csproj">
+</Event><Event ErrorLevel="0" Project="PiCalculator" Source="PiCalculator\AssemblyInfo.cs" Description="File successfully backed up as E:\books information\studying\ki9\модели и методы\Alchemi\Alchemi\Alchemi-1.0.6-sdk-net-2.0\examples\PiCalculator\Backup\PiCalculator\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="PiCalculator" Source="PiCalculator\PiCalcGridThread.cs" Description="File successfully backed up as E:\books information\studying\ki9\модели и методы\Alchemi\Alchemi\Alchemi-1.0.6-sdk-net-2.0\examples\PiCalculator\Backup\PiCalculator\PiCalcGridThread.cs">
+</Event><Event ErrorLevel="0" Project="PiCalculator" Source="PiCalculator\Plouffe_Bellard.cs" Description="File successfully backed up as E:\books information\studying\ki9\модели и методы\Alchemi\Alchemi\Alchemi-1.0.6-sdk-net-2.0\examples\PiCalculator\Backup\PiCalculator\Plouffe_Bellard.cs">
+</Event><Event ErrorLevel="0" Project="PiCalculator" Source="PiCalculator\PiCalculator.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="PiCalculator" Source="PiCalculator\PiCalculator.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="PiCalculatorExec" Source="PiCalculatorExec\PiCalculatorExec.csproj" Description="Project file successfully backed up as E:\books information\studying\ki9\модели и методы\Alchemi\Alchemi\Alchemi-1.0.6-sdk-net-2.0\examples\PiCalculator\Backup\PiCalculatorExec\PiCalculatorExec.csproj">
+</Event><Event ErrorLevel="0" Project="PiCalculatorExec" Source="PiCalculatorExec\AssemblyInfo.cs" Description="File successfully backed up as E:\books information\studying\ki9\модели и методы\Alchemi\Alchemi\Alchemi-1.0.6-sdk-net-2.0\examples\PiCalculator\Backup\PiCalculatorExec\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="PiCalculatorExec" Source="PiCalculatorExec\PiCalculatorMain.cs" Description="File successfully backed up as E:\books information\studying\ki9\модели и методы\Alchemi\Alchemi\Alchemi-1.0.6-sdk-net-2.0\examples\PiCalculator\Backup\PiCalculatorExec\PiCalculatorMain.cs">
+</Event><Event ErrorLevel="0" Project="PiCalculatorExec" Source="PiCalculatorExec\App.config" Description="File successfully backed up as E:\books information\studying\ki9\модели и методы\Alchemi\Alchemi\Alchemi-1.0.6-sdk-net-2.0\examples\PiCalculator\Backup\PiCalculatorExec\App.config">
+</Event><Event ErrorLevel="0" Project="PiCalculatorExec" Source="PiCalculatorExec\App.ico" Description="File successfully backed up as E:\books information\studying\ki9\модели и методы\Alchemi\Alchemi\Alchemi-1.0.6-sdk-net-2.0\examples\PiCalculator\Backup\PiCalculatorExec\App.ico">
+</Event><Event ErrorLevel="0" Project="PiCalculatorExec" Source="PiCalculatorExec\PiCalculatorExec.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="PiCalculatorExec" Source="PiCalculatorExec\PiCalculatorExec.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="PiCalculator.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="PiCalculator.sln" Description="Converted">
+</Event></UpgradeLog>

@@ -1,0 +1,8 @@
+F:\Tai Lieu Hoc Tap\Semestro\Nam4\Diplom\MultiMatrix\MultiMatrix\obj\Debug\MultiMatrix.exe
+F:\Tai Lieu Hoc Tap\Semestro\Nam4\Diplom\MultiMatrix\MultiMatrix\obj\Debug\MultiMatrix.pdb
+C:\Users\TrungDD\Desktop\Alchemi\MultiMatrix\MultiMatrix\obj\Debug\MultiMatrix.exe
+C:\Users\TrungDD\Desktop\Alchemi\MultiMatrix\MultiMatrix\obj\Debug\MultiMatrix.pdb
+C:\Users\TrungDD\Desktop\Alchemi\MultiMatrix\MultiMatrix\bin\Debug\MultiMatrix.exe
+C:\Users\TrungDD\Desktop\Alchemi\MultiMatrix\MultiMatrix\bin\Debug\MultiMatrix.pdb
+C:\Users\TrungDD\Desktop\Alchemi\MultiMatrix\MultiMatrix\bin\Debug\Alchemi.Core.dll
+C:\Users\TrungDD\Desktop\Alchemi\MultiMatrix\MultiMatrix\obj\Debug\ResolveAssemblyReference.cache

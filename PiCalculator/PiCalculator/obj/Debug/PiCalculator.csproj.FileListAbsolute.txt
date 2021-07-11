@@ -1,0 +1,14 @@
+C:\Documents and Settings\admin\Desktop\PiCalculator\PiCalculator\bin\Debug\PiCalculatorLib.dll
+C:\Documents and Settings\admin\Desktop\PiCalculator\PiCalculator\bin\Debug\PiCalculatorLib.pdb
+C:\Documents and Settings\admin\Desktop\PiCalculator\PiCalculator\bin\Debug\Alchemi.Core.xml
+C:\Documents and Settings\admin\Desktop\PiCalculator\PiCalculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Desktop\PiCalculator\PiCalculator\obj\Debug\PiCalculatorLib.dll
+C:\Documents and Settings\admin\Desktop\PiCalculator\PiCalculator\obj\Debug\PiCalculatorLib.pdb
+E:\TTSS\Alchemi\PiCalculator\PiCalculator\bin\Debug\PiCalculatorLib.dll
+E:\TTSS\Alchemi\PiCalculator\PiCalculator\bin\Debug\PiCalculatorLib.pdb
+E:\TTSS\Alchemi\PiCalculator\PiCalculator\bin\Debug\Alchemi.Core.xml
+E:\TTSS\Alchemi\PiCalculator\PiCalculator\obj\Debug\PiCalculator.csprojAssemblyReference.cache
+E:\TTSS\Alchemi\PiCalculator\PiCalculator\obj\Debug\PiCalculator.csproj.CoreCompileInputs.cache
+E:\TTSS\Alchemi\PiCalculator\PiCalculator\obj\Debug\PiCalculator.csproj.CopyComplete
+E:\TTSS\Alchemi\PiCalculator\PiCalculator\obj\Debug\PiCalculatorLib.dll
+E:\TTSS\Alchemi\PiCalculator\PiCalculator\obj\Debug\PiCalculatorLib.pdb

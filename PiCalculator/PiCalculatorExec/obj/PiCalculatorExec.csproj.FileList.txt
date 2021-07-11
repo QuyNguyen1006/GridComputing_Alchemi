@@ -1,0 +1,11 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\PiCalculator.exe.config
+bin\Debug\PiCalculator.exe
+bin\Debug\PiCalculator.pdb
+bin\Debug\Alchemi.Core.dll
+bin\Debug\log4net.dll
+bin\Debug\PiCalculatorLib.dll
+bin\Debug\Alchemi.Core.xml
+bin\Debug\PiCalculatorLib.pdb
+obj\Debug\PiCalculator.exe
+obj\Debug\PiCalculator.pdb

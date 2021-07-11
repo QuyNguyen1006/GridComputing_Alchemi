@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MultiMatrix">
+</Property><Property Name="Solution File" Value="F:\Tai Lieu Hoc Tap\Semestro\Nam4\Diplom\MultiMatrix\MultiMatrix.sln">
+</Property><Property Name="User Options File" Value="F:\Tai Lieu Hoc Tap\Semestro\Nam4\Diplom\MultiMatrix\MultiMatrix.suo">
+</Property><Property Name="Date" Value="Saturday, October 10, 2009">
+</Property><Property Name="Time" Value="7:49 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MultiMatrix.sln" Description="File successfully backed up as F:\Tai Lieu Hoc Tap\Semestro\Nam4\Diplom\MultiMatrix\Backup\MultiMatrix.sln">
+</Event><Event ErrorLevel="0" Project="" Source="MultiMatrix.suo" Description="File successfully backed up as F:\Tai Lieu Hoc Tap\Semestro\Nam4\Diplom\MultiMatrix\Backup\MultiMatrix.suo">
+</Event><Event ErrorLevel="0" Project="MultiMatrix" Source="MultiMatrix\MultiMatrix.csproj" Description="Project file successfully backed up as F:\Tai Lieu Hoc Tap\Semestro\Nam4\Diplom\MultiMatrix\Backup\MultiMatrix\MultiMatrix.csproj">
+</Event><Event ErrorLevel="0" Project="MultiMatrix" Source="MultiMatrix\Program.cs" Description="File successfully backed up as F:\Tai Lieu Hoc Tap\Semestro\Nam4\Diplom\MultiMatrix\Backup\MultiMatrix\Program.cs">
+</Event><Event ErrorLevel="0" Project="MultiMatrix" Source="MultiMatrix\Properties\AssemblyInfo.cs" Description="File successfully backed up as F:\Tai Lieu Hoc Tap\Semestro\Nam4\Diplom\MultiMatrix\Backup\MultiMatrix\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MultiMatrix" Source="MultiMatrix\MultiMatrix.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MultiMatrix" Source="MultiMatrix\MultiMatrix.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MultiMatrix.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="MultiMatrix.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MultiMatrix" Source="MultiMatrix\MultiMatrix.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

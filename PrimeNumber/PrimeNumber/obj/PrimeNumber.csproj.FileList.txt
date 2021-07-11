@@ -1,0 +1,6 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\PrimeNumber.exe
+bin\Debug\PrimeNumber.pdb
+bin\Debug\Alchemi.Core.dll
+obj\Debug\PrimeNumber.exe
+obj\Debug\PrimeNumber.pdb

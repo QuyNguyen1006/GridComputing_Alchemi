@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiCalculator", "PiCalculator\PiCalculator.csproj", "{15A0F48C-183C-4170-AC37-8E3D6D329CEA}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiCalculatorExec", "PiCalculatorExec\PiCalculatorExec.csproj", "{184FA2DB-F0C7-4E55-9331-E25DAC1E17D8}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{15A0F48C-183C-4170-AC37-8E3D6D329CEA}.Debug.ActiveCfg = Debug|.NET
+		{15A0F48C-183C-4170-AC37-8E3D6D329CEA}.Debug.Build.0 = Debug|.NET
+		{15A0F48C-183C-4170-AC37-8E3D6D329CEA}.Release.ActiveCfg = Release|.NET
+		{15A0F48C-183C-4170-AC37-8E3D6D329CEA}.Release.Build.0 = Release|.NET
+		{184FA2DB-F0C7-4E55-9331-E25DAC1E17D8}.Debug.ActiveCfg = Debug|.NET
+		{184FA2DB-F0C7-4E55-9331-E25DAC1E17D8}.Debug.Build.0 = Debug|.NET
+		{184FA2DB-F0C7-4E55-9331-E25DAC1E17D8}.Release.ActiveCfg = Release|.NET
+		{184FA2DB-F0C7-4E55-9331-E25DAC1E17D8}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

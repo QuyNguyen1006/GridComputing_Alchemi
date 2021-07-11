@@ -1,0 +1,17 @@
+2021-06-07 17:45:09,109 [1] DEBUG Alchemi.Console.Console [(null)] [{log4net:HostName=QiQi1006}] [:Main:0] - E:\TTSS\Alchemi\Alchemi-1.0.6-sdk-net-2.0\Alchemi-1.0.6-sdk-net-2.0\bin\Alchemi.Console.exe.config
+
+2021-06-07 17:45:18,466 [1] ERROR Alchemi.Console.Console [(null)] [{log4net:HostName=QiQi1006}] [:LogHandler:0] - Could not get list of applications. Error: Object reference not set to an instance of an object.
+
+System.NullReferenceException: Object reference not set to an instance of an object.
+
+Server stack trace: 
+   at Alchemi.Manager.Storage.InMemoryManagerStorage.GetApplications(String userName, Boolean populateThreadCount)
+   at Alchemi.Manager.GManager.Admon_GetLiveApplicationList(SecurityCredentials sc)
+   at System.Runtime.Remoting.Messaging.StackBuilderSink._PrivateProcessMessage(IntPtr md, Object[] args, Object server, Int32 methodPtr, Boolean fExecuteInContext, Object[]& outArgs)
+   at System.Runtime.Remoting.Messaging.StackBuilderSink.SyncProcessMessage(IMessage msg, Int32 methodPtr, Boolean fExecuteInContext)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at Alchemi.Core.IManager.Admon_GetLiveApplicationList(SecurityCredentials sc)
+   at Alchemi.Console.ConsoleForm.FillApplicationsTree()

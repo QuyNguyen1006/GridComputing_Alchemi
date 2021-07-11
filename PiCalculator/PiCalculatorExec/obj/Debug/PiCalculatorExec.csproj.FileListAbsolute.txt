@@ -1,0 +1,20 @@
+E:\1_Cong viec\HUT\Parallel_Computing\Bai_Giang_Trung\Alchemi\PiCalculator\PiCalculatorExec\bin\Debug\PiCalculator.exe.config
+E:\1_Cong viec\HUT\Parallel_Computing\Bai_Giang_Trung\Alchemi\PiCalculator\PiCalculatorExec\bin\Debug\PiCalculator.exe
+E:\1_Cong viec\HUT\Parallel_Computing\Bai_Giang_Trung\Alchemi\PiCalculator\PiCalculatorExec\bin\Debug\PiCalculator.pdb
+E:\1_Cong viec\HUT\Parallel_Computing\Bai_Giang_Trung\Alchemi\PiCalculator\PiCalculatorExec\bin\Debug\PiCalculatorLib.dll
+E:\1_Cong viec\HUT\Parallel_Computing\Bai_Giang_Trung\Alchemi\PiCalculator\PiCalculatorExec\bin\Debug\PiCalculatorLib.pdb
+E:\1_Cong viec\HUT\Parallel_Computing\Bai_Giang_Trung\Alchemi\PiCalculator\PiCalculatorExec\bin\Debug\Alchemi.Core.xml
+E:\1_Cong viec\HUT\Parallel_Computing\Bai_Giang_Trung\Alchemi\PiCalculator\PiCalculatorExec\obj\Debug\ResolveAssemblyReference.cache
+E:\1_Cong viec\HUT\Parallel_Computing\Bai_Giang_Trung\Alchemi\PiCalculator\PiCalculatorExec\obj\Debug\PiCalculator.exe
+E:\1_Cong viec\HUT\Parallel_Computing\Bai_Giang_Trung\Alchemi\PiCalculator\PiCalculatorExec\obj\Debug\PiCalculator.pdb
+E:\TTSS\Alchemi\PiCalculator\PiCalculatorExec\bin\Debug\PiCalculator.exe.config
+E:\TTSS\Alchemi\PiCalculator\PiCalculatorExec\bin\Debug\PiCalculator.exe
+E:\TTSS\Alchemi\PiCalculator\PiCalculatorExec\bin\Debug\PiCalculator.pdb
+E:\TTSS\Alchemi\PiCalculator\PiCalculatorExec\bin\Debug\PiCalculatorLib.dll
+E:\TTSS\Alchemi\PiCalculator\PiCalculatorExec\bin\Debug\PiCalculatorLib.pdb
+E:\TTSS\Alchemi\PiCalculator\PiCalculatorExec\bin\Debug\Alchemi.Core.xml
+E:\TTSS\Alchemi\PiCalculator\PiCalculatorExec\obj\Debug\PiCalculatorExec.csprojAssemblyReference.cache
+E:\TTSS\Alchemi\PiCalculator\PiCalculatorExec\obj\Debug\PiCalculatorExec.csproj.CoreCompileInputs.cache
+E:\TTSS\Alchemi\PiCalculator\PiCalculatorExec\obj\Debug\PiCalculatorExec.csproj.CopyComplete
+E:\TTSS\Alchemi\PiCalculator\PiCalculatorExec\obj\Debug\PiCalculator.exe
+E:\TTSS\Alchemi\PiCalculator\PiCalculatorExec\obj\Debug\PiCalculator.pdb

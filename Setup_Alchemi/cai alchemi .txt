@@ -1,0 +1,12 @@
+LUU Y: May tinh phai cai dat .NET Framework
+1.cmd -> Run As Administrator
+2. Tim thu muc cai dat
+Chay cau lenh sau:
+	msiexec /i Alchemi.ManagerExecSetup.msi 
+	msiexec /i Alchemi.ExecutorExecSetup.msi 
+
+
+User		pwd
+admin		admin
+executor	executor
+user		user

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JCSMHAXshp/uBd9GzoOASRxb8riEFHljGHEfLv9klLXXVd7Dw4e8x1bzsYqxKeYuUNRPk5Czqy7EeAA7fO7CWg==",
+  "success": true,
+  "projectFilePath": "E:\\TTSS\\Alchemi\\Alchemi cuoiki\\Alchemi cuoiki.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+E:\1_Cong viec\HUT\Parallel_Computing\Grid_Computing\Alchemi\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.exe
+E:\1_Cong viec\HUT\Parallel_Computing\Grid_Computing\Alchemi\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.pdb
+E:\1_Cong viec\HUT\Parallel_Computing\Grid_Computing\Alchemi\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe
+E:\1_Cong viec\HUT\Parallel_Computing\Grid_Computing\Alchemi\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.pdb
+E:\1_Cong viec\HUT\Parallel_Computing\Grid_Computing\Alchemi\PrimeNumber\PrimeNumber\obj\Debug\ResolveAssemblyReference.cache
+E:\1_Cong viec\HUT\Parallel_Computing\Bai_Giang_Trung\Alchemi\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.exe
+E:\1_Cong viec\HUT\Parallel_Computing\Bai_Giang_Trung\Alchemi\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.pdb
+E:\1_Cong viec\HUT\Parallel_Computing\Bai_Giang_Trung\Alchemi\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe
+E:\1_Cong viec\HUT\Parallel_Computing\Bai_Giang_Trung\Alchemi\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.pdb
+E:\1_Cong viec\HUT\Parallel_Computing\Bai_Giang_Trung\Alchemi\PrimeNumber\PrimeNumber\obj\Debug\ResolveAssemblyReference.cache
+E:\TTSS\Alchemi\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe
+E:\TTSS\Alchemi\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.pdb
+E:\TTSS\Alchemi\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.csprojAssemblyReference.cache
+E:\TTSS\Alchemi\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.csproj.CoreCompileInputs.cache
+E:\TTSS\Alchemi\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.csproj.CopyComplete
+E:\TTSS\Alchemi\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.exe
+E:\TTSS\Alchemi\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.pdb
